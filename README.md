@@ -1,4 +1,4 @@
-# Horiseo Refactoring
+# Horiseon Refactoring
 
 ## Description
 
