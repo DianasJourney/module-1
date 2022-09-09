@@ -3,6 +3,7 @@
 ## Overview
 **The client company "Horiseon" has requested that they want their webpage code to be restructured. They want to ensure that people with disabilities can access their website without any problem. What they want has been given:**
 
+<<<<<<< HEAD
     - Codebase follows accessibility standards
     - Codebase does not change how the website functions
     - Viewing source code and finding there are HTML semantic elements
@@ -10,6 +11,14 @@
     - Image and icons have accessible 'alt' attributes
     - Heading attributes should fall in sequential order  
     - Fix a broken a link
+=======
+This is done when the following criteria is met:
+    - Viewing source code and finding there are semantic HTML elements
+    * The HTML elements follow a logical structure independent of styling and positioning
+    * Image and icons have accessible 'alt' attributes
+    * Heading attributes should fall in sequential order
+    * Title element should be descriptive and concise.
+>>>>>>> 23eb3d5aef1fac55425385efb248c0a4995f5efc
 
 ## Results
 **The following changes has been made to the codebase:**
