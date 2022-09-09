@@ -11,7 +11,7 @@
     - Heading attributes should fall in sequential order  
     - Fix a broken a link
 
-## Results
+## Updates
 **The following changes has been made to the codebase:**
 
 - Replaced non HTML semantic elements with corresponding semantic elements that fit each property
