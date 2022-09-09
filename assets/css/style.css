@@ -21,7 +21,7 @@ h1 {
     font-size: 48px;
 }
 /* using # infront of the element name creates it so it becomes an ID selector where it's only used once */
-#seo {
+.seo {
     color: #d9dcd6;
 }
 
