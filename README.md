@@ -5,7 +5,7 @@ The client company "Horiseon" has requested that they want their webpage code to
     * Codebase follows accessibility standards
 
 This is done when the following criteria is met:
-    -Viewing source code and finding there are semantic HTML elements
+    - Viewing source code and finding there are semantic HTML elements
     * The HTML elements follow a logical structure independent of styling and positioning
     * Image and icons have accessible 'alt' attributes
     * Heading attributes should fall in sequential order
