@@ -1,9 +1,10 @@
+/* This is a universal selector useful when you want to set a style for of all the elements of an HTML page*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* all tags are inside the body no matter the level */
 body {
     background-color: #d9dcd6;
 }
@@ -15,23 +16,23 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/* using # infront of the element name creates it so it becomes an ID selector where it's only used once */
+#seo {
     color: #d9dcd6;
 }
 
-.header nav {
+ nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* using the ".(elementname) makes it become a class selector where it can be used multiple times */
 .header nav ul li {
     list-style-type: none;
     display: inline-block;
@@ -82,7 +83,7 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* using a comma to seperate the CSS selectors makes it so it can be combine all into one */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -128,7 +129,7 @@ a {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* defines a footer for a section, typically contains author information, contact and copyright */
 footer {
     padding: 30px;
     clear: both;
