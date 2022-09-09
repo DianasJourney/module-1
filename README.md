@@ -29,8 +29,8 @@ https://user-images.githubusercontent.com/109758045/189424431-0c498a1f-f599-44bd
 - Clicking any of the navigation bar on the webpage will direct you to the corresponding section of the page where the users can read more about the subject.
 - The website is designed to help users understand Optimization, Management, and Marketing more clearly.
 ## Resources
-Github Repo: https://github.com/DianasJourney/module-1
-Github live page: https://dianasjourney.github.io/module-1/
+- Github Repo: https://github.com/DianasJourney/module-1 
+- Github live page: https://dianasjourney.github.io/module-1/
 ## Credits
 **Vu, Diana**
 
