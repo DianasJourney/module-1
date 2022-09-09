@@ -1,7 +1,7 @@
 # Module 1: Introduction to Code Refactoring using HTML, CSS and Git
 
 ## Overview
-**The client company "Horiseon" has requested that they want their webpage code to be restructured. They want to ensure that people with disabilities can access their website without any problem. What they want has been given:**
+**The client company "Horiseon" has requested that they want their webpage code to be restructured. They want to ensure that people with disabilities can access their website without any problem. These were the following criterias:**
 
     - Codebase follows accessibility standards
     - Codebase does not change how the website functions
@@ -15,8 +15,8 @@
 **The following changes has been made to the codebase:**
 
 - Replaced non HTML semantic elements with corresponding semantic elements that fit each property
-- Removed/Consolidated the CSS section so it is more user accessible.
-- The webpage loads correctly, there are no change in the website's functions
+- Removed/Consolidated the CSS section, it is now more user friendly
+- The functionality of the webpage has remained the same with some enhanced features made within the code
 - All images and icon now has alt attributes
 - Everything falls into sequential order
 - The "broken" link for "Search Engine Optmization" is now fixed and redirects to the "Search Engine Optimzation" section.
@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/109758045/189424431-0c498a1f-f599-44bd
 
 
 ## Usage
-- Clicking any of the navigation bar on the webpage will direct you to the corresponding section of the page where the users can read more about the subject.
+- Clicking any of the navigation bar on the webpage will direct you to the corresponding section on the page where the users can read more about the subject.
 - The website is designed to help users understand Optimization, Management, and Marketing more clearly.
 ## Resources
 - Github Repo: https://github.com/DianasJourney/module-1 
