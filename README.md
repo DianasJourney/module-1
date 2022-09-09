@@ -22,7 +22,7 @@
 - The "broken" link for "Search Engine Optmization" is now fixed and redirects to the "Search Engine Optimzation" section.
 - Product is now finished and everything is up to date.
 
-![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/109758045/189417047-fd95bc12-90c5-484e-bb65-691fbbf6056d.png)
+https://user-images.githubusercontent.com/109758045/189424431-0c498a1f-f599-44bd-8cf2-4899fc929e23.mp4
 
 
 ## Credits
